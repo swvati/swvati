@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis.
 - 🌱 I’m currently learning various approaches to analyze data
 - 💞️ I’m looking to collaborate on any project related to analytics
-- 📫 How to reach me swvatiandol@gmail.com
+- 📫 How to reach me swathigbussa@gmail.com
 
 <!---
 swvati/swvati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
